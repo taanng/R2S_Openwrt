@@ -1,7 +1,7 @@
 ## R2S固件
 ![Build OpenWrt](https://github.com/taanng/R2S_Openwrt/workflows/Build%20OpenWrt/badge.svg)
 
-基于Lean大神最新原版openwrt代码，每日自动编译
+基于Lean大神最新原版openwrt代码，每日编译
 
 登陆IP：192.168.1.1 
 
