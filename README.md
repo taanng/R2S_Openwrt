@@ -9,6 +9,8 @@
 
 密码： password
 
+[点击下载固件](https://github.com/taanng/R2S_Openwrt/releases) 
+
 
 ### 参考
 
